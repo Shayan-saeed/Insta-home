@@ -1,0 +1,91 @@
+body{
+    background-color: #FAFAFA;
+    display: inline-block;
+}
+.image{
+    margin-left: 70%;
+    margin-top: 20px;
+}
+.formone{
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: -550px;
+    margin-left: 180%;
+    width: 350px;
+    height: 400px;
+}
+#insta{
+    width: 200px;
+    height: 70px;
+    margin: 10px auto;
+    margin-left: 20%;
+}
+.field{
+    width: 250px;
+    height: 30px;
+    margin:  auto;
+    margin-left:14% ;
+    margin-top: 10px;
+}
+#button{
+    background-color: dodgerblue;
+    color: white;
+    width: 250px;
+    height: 30px;
+    margin-left:14% ;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: #FAFAFA;
+}
+hr{
+    width: 250px;
+    margin-top: 15px;
+}
+a{
+    padding: auto;
+    color: mediumblue;
+}
+#a{
+    color: mediumblue;
+    text-decoration: none;
+    margin-left: 28%;
+    padding-top: 50px;
+}
+#small{
+    font-size: 12px;
+    margin-left: 35%;
+}
+.formtwo{
+    background-color: white;
+    border: 1px solid lightgray;
+    width: 350px;
+    height: 60px;
+    margin-left: 180%;
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+}
+#p{
+    margin-top: 40px;
+}
+#google{
+    height: 60px;
+    width: 150px; 
+    margin-bottom: -8px;  
+}
+#app{
+    height: 46px;
+    width: 150px;
+    margin-left: 30px;
+}
+footer{
+    background-color: #FAFAFA;
+    color: gray;
+    display: inline-block;
+}
+.abc{
+    color: grey;
+    text-decoration: none;
+    margin-left: 10px auto;
+}
